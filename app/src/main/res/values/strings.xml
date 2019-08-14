@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Space_final</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="already_registered">Already registered?</string>
+    <string name="signin">SIGN IN</string>
+    <string name="register">REGISTER</string>
+    <string name="editvalue1">Address 1</string>
+    <string name="editvalue2">Address 2</string>
+    <string name="no_of_rooms">No of Rooms</string>
+</resources>
